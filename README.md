@@ -1,6 +1,6 @@
 🌤️ SanchAI Weather Assistant
 
-An AI-powered weather assistant built as part of a **Tech Assessment** using **React, FastAPI, LangChain, and OpenRouter**.  
+An AI-powered weather assistant built  using **React, FastAPI, LangChain, and OpenRouter**.  
 Users can ask natural language questions like *“What’s the weather in Pune today?”* and receive intelligent, conversational weather responses.
 
 ---
@@ -62,6 +62,7 @@ Users can ask natural language questions like *“What’s the weather in Pune t
    - Uses LLM to generate a natural response
 
 4. The generated response is returned to the frontend and displayed to the user.
+
 
 
 
