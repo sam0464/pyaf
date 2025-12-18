@@ -14,7 +14,7 @@ Users can ask natural language questions like *“What’s the weather in Pune t
 - LLM tool calling using LangChain
 - Clean React UI with FastAPI backend
 
-This project is designed to showcase **real-world AI engineering skills** suitable for internship and entry-level AI/ML roles.
+
 
 ---
 
@@ -62,6 +62,7 @@ This project is designed to showcase **real-world AI engineering skills** suitab
    - Uses LLM to generate a natural response
 
 4. The generated response is returned to the frontend and displayed to the user.
+
 
 
 
